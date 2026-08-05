@@ -1,0 +1,15 @@
+{
+  "n_estimators": 300,
+  "max_depth": null,
+  "min_samples_leaf": 2,
+  "max_features": 0.8,
+  "random_state": 42,
+  "validation_years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "validation_MAE_ML": 46.60092732184654
+}

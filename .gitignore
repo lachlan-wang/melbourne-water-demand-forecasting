@@ -1,0 +1,28 @@
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+/local_backup/
+
+# Original exploratory scripts and local task notes
+/*.py
+/Codex_GitHub*.md
+/*.tif
+
+# Local source data and legacy analysis outputs
+/data/*.csv
+/data/*.txt
+/data/ERA5_daily/
+/data/ERA5_hourly/
+/data/ERA5_processed/
+/data/Model_results/
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
