@@ -183,10 +183,3 @@ periodic retraining. Holiday definitions depend on the installed calendar
 package. The target is an aggregate wholesale volume and does not describe
 household behaviour. Results are specific to the retained period, feature
 definitions and one 2019 holdout year.
-
-## Figure provenance
-
-Model fitting, evaluation and figure-source tables were generated in Python.
-Final figure styling and panel assembly were completed in Origin. The existing
-TIFF is retained unchanged. The Python workflow does not contain plotting code,
-and the Origin project file is not required to reproduce the numerical results.
